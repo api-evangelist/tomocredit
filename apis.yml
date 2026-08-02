@@ -1,8 +1,26 @@
 aid: tomocredit
 name: TomoCredit
-description: TomoCredit is a company surfaced as a portfolio company of techstars and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: TomoCredit is a consumer fintech that helps people build credit without
+  requiring a credit score or prior credit history. Its flagship products are the
+  Tomo Card, a credit-building card marketed as an all-new black card, and TomoBoost,
+  an AI-powered credit-building tool. The company positions itself around fast approval
+  (apply in minutes), no credit-history requirement, and cardmember benefits and coverage
+  it values at over $1,300, aiming to help thin-file consumers such as newcomers and
+  students establish and grow their credit. TomoCredit was surfaced through the Techstars
+  portfolio and added to the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/tomocredit/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://tomocredit.com/images/tomo_card_women.webp
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +29,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Financial Services
+- Fintech
+- Credit
+- Credit Cards
+- Consumer Finance
+- Credit Building
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +47,16 @@ maintainers:
 common:
 - type: Website
   url: https://tomocredit.com/
+- type: Blog
+  url: https://tomocredit.com/blog
+- type: Support
+  url: https://tomocredit.com/support
+- type: TermsOfService
+  url: https://tomocredit.com/terms
+- type: PrivacyPolicy
+  url: https://tomocredit.com/privacypolicy
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
