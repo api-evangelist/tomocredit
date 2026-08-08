@@ -2,17 +2,13 @@
   "repo": "tomocredit",
   "feeds": [
     {
-      "source": "https://tomocredit.com/blog/feed/",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://tomocredit.com/",
-      "feed_url": "https://tomocredit.com/",
+      "feed_url": "https://tomocredit.com/blog/feed/",
       "title": "",
-      "saved": 0,
-      "method": "none"
+      "saved": 1,
+      "method": "discovered"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-08-01T15:49:00Z"
+  "post_count": 1,
+  "fetched": "2026-08-06T14:08:46Z"
 }
