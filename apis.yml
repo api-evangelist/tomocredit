@@ -43,7 +43,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Credit
 - Credit Cards
@@ -57,6 +57,7 @@ tags_raw:
 - Credit Cards
 - Consumer Finance
 - Credit Building
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
